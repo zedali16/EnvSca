@@ -1,7 +1,9 @@
 Summary:
+
     - R code for “Interpretable Classification of Categorical Time Series Using the SpectralEnvelope and Optimal Scalings” by Li, Bruce, and Cai (2022)
 
 Description:
+
     - functions.r: contains all necessary functions to run simulations.
 
     - demo_case1.r: demonstrates the proposed method for Case 1 in the simulation studies.
