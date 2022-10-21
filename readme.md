@@ -1,8 +1,8 @@
-Summary:
+## Summary:
 
     - R code for “Interpretable Classification of Categorical Time Series Using the SpectralEnvelope and Optimal Scalings” by Li, Bruce, and Cai (2022)
 
-Description:
+## Description:
 
     - functions.r: contains all necessary functions to run simulations.
 
@@ -14,7 +14,7 @@ Description:
 
     - seql executables (folder): contains necessary C++ implementation of the sequence learner  (Ifrim and Wiuf, 2011).
 
-Dependencies:
+## Dependencies:
 
 Code was developed using R version 4.0.2 ("Taking Off Again"), so code may not function properly on older versions of R. The packages listed in the demo file must also be installed prior to use: astsa, abind.
 
